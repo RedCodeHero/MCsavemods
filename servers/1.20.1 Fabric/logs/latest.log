@@ -1,0 +1,26 @@
+[00:11:27] [User Authenticator #4/INFO]: UUID of player xX_ShocK_Xx is 2789cac8-e5d6-40de-9419-5c288b45f98d
+[00:11:27] [Server thread/INFO]: xX_ShocK_Xx[/75.12.89.27:50738] logged in with entity id 41355 at (2484.9871173891775, 84.0, -2880.2291050273166)
+[00:11:27] [Server thread/INFO]: xX_ShocK_Xx joined the game
+[00:47:56] [Server thread/INFO]: xX_ShocK_Xx lost connection: Disconnected
+[00:47:56] [Server thread/INFO]: xX_ShocK_Xx left the game
+[00:52:40] [User Authenticator #5/INFO]: UUID of player xX_ShocK_Xx is 2789cac8-e5d6-40de-9419-5c288b45f98d
+[00:52:40] [Server thread/INFO]: xX_ShocK_Xx[/75.12.89.27:50744] logged in with entity id 48885 at (2488.300000011921, 83.9375, -2886.323542115479)
+[00:52:40] [Server thread/INFO]: xX_ShocK_Xx joined the game
+[01:23:37] [Server thread/INFO]: RedCodeHero lost connection: Disconnected
+[01:23:37] [Server thread/INFO]: RedCodeHero left the game
+[01:42:35] [Server thread/INFO]: xX_ShocK_Xx lost connection: Disconnected
+[01:42:35] [Server thread/INFO]: xX_ShocK_Xx left the game
+[01:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e2607b2[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:46180) lost connection: Disconnected
+[06:00:36] [User Authenticator #6/INFO]: UUID of player SushB is 5c123365-295e-4cf0-943c-4494f1c905c1
+[06:00:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d962e1f[id=5c123365-295e-4cf0-943c-4494f1c905c1,name=SushB,properties={textures=[com.mojang.authlib.properties.Property@5e77a5e9]},legacy=false] (/94.103.124.169:56650) lost connection: Disconnected
+[09:08:34] [Server thread/INFO]: Stopping the server
+[09:08:34] [Server thread/INFO]: Stopping server
+[09:08:34] [Server thread/INFO]: Saving players
+[09:08:34] [Server thread/INFO]: Saving worlds
+[09:08:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:08:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:08:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
