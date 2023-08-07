@@ -5745,55 +5745,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2023-07-25 23:18:06 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2023-07-26 00:13:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2023-07-25 22:52:53 -0400"
-    },
-    "done": true
-  },
-  "croptopia:gather_drinks": {
-    "criteria": {
-      "strawberry_smoothie": "2023-07-25 23:40:32 -0400",
-      "fruit_smoothie": "2023-07-25 23:38:02 -0400"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2023-07-25 23:15:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2023-07-25 23:34:39 -0400"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2023-07-25 21:53:49 -0400"
@@ -5806,33 +5757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2023-07-25 23:18:06 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2023-07-26 00:13:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2023-07-25 23:15:21 -0400"
+      "has_snowball": "2023-07-25 22:52:53 -0400"
     },
     "done": true
   },
@@ -5842,9 +5769,82 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-07-25 23:15:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2023-07-25 23:15:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-07-25 23:18:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-07-25 23:18:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2023-07-25 23:34:39 -0400"
+    },
+    "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "strawberry_smoothie": "2023-07-25 23:40:32 -0400",
+      "fruit_smoothie": "2023-07-25 23:38:02 -0400"
+    },
+    "done": false
+  },
   "croptopia:getdrinks": {
     "criteria": {
       "has_drink": "2023-07-25 23:38:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-07-26 00:13:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-07-26 00:13:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-07-26 00:27:11 -0400"
     },
     "done": true
   },
